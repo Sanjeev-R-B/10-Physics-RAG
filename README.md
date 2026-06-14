@@ -3,7 +3,7 @@
 
 An AI-powered study assistant for Class 10 Physics, built on a RAG (Retrieval-Augmented Generation) pipeline using NCERT textbook content. Students can ask questions and get detailed, textbook-grounded answers, or generate exam-style practice questions on any topic.
 
-**Live Demo → [your-app.streamlit.app](https://your-app.streamlit.app)**
+**Live Demo → [PhysicsIQ](https://10-physics-rag-n5tkorehhuaucga9mpjnku.streamlit.app/)**
 
 ---
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ PhysicsIQ — Class 10 AI Physics Tutor
 
 An AI-powered study assistant for Class 10 Physics, built on a RAG (Retrieval-Augmented Generation) pipeline using NCERT textbook content. Students can ask questions and get detailed, textbook-grounded answers, or generate exam-style practice questions on any topic.
@@ -155,3 +156,5 @@ GROQ_API_KEY = "your_key"
 
 **Sanjeev**
 Built as part of an AI/ML project — Class 10 Physics RAG system using modern LLM tooling.
+=======
+
